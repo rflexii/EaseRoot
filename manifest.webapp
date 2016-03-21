@@ -1,0 +1,15 @@
+﻿{
+ "version": "1.0.0",
+ "name": "Ease Web App",
+ "description": "Ease Web Solutions Provider",
+ "developer": {
+  "name": "Ease Web Solutions",
+  "url": "http://www.easesites.com/"
+ },
+ "fullscreen": "true",
+ "launch_path": "/www/index.html",
+ "icons": {
+  "128": "/www/app/images/webappicon.png"
+ },
+ "csp": "default-src *; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' 'unsafe-eval'"
+}
